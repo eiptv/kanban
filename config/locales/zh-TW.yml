@@ -1,5 +1,5 @@
-# Japanese strings go here for Rails i18n
-ja:
+# Traditional Chinese strings go here for Rails i18n
+zh-TW:
   kanban_menu_caption: 看板
 
   kanban_label_title: " 的看板"
